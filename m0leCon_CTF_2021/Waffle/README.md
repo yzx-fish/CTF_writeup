@@ -35,5 +35,5 @@ requests.get请求到golang main.go时，请求变成：
      获取列名：
      datandard1' union select sql, 2,3,'4' from sqlite_master--
      获奖flag
-     ![alt text](flag.png)
+![alt text](flag.png)
      
